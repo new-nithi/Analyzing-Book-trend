@@ -1,0 +1,6 @@
+# Auto-derived from notebook imports; adjust versions as needed.
+matplotlib
+missingno
+numpy
+pandas
+seaborn
