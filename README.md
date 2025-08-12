@@ -1,8 +1,8 @@
 # Kaggle Python Project
 
-Analyzing Book Trend Project จาก Kaggle 
+Analyzing Book Trend Project with Python จาก Kaggle 
 
-## สรุปจากโน้ตบุ๊ก
+## Conclude
 - Library: datetime, matplotlib, missingno, numpy, pandas, seaborn
 - ไฟล์ที่อ้างอิง:  
 - `/kaggle/input/books-dataset/Books.csv`
